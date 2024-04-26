@@ -1,0 +1,11 @@
+Hel_MoneyRublePack5
+Hel_MoneyRublePack10
+Hel_MoneyRublePack50
+Hel_MoneyRublePack100
+Hel_MoneyRublePack200
+Hel_MoneyRublePack500
+Hel_MoneyRublePack1000
+Hel_MoneyRublePack2000
+Hel_MoneyRublePack5000
+
+Hel_MoneyCase
